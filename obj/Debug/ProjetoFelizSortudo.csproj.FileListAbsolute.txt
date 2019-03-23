@@ -1,0 +1,7 @@
+C:\Users\Eduardo\Source\Repos\Edu-si\NumeroFelizSortudo\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Eduardo\Source\Repos\Edu-si\NumeroFelizSortudo\bin\Debug\ConsoleApp1.exe
+C:\Users\Eduardo\Source\Repos\Edu-si\NumeroFelizSortudo\bin\Debug\ConsoleApp1.pdb
+C:\Users\Eduardo\Source\Repos\Edu-si\NumeroFelizSortudo\obj\Debug\ProjetoFelizSortudo.csprojAssemblyReference.cache
+C:\Users\Eduardo\Source\Repos\Edu-si\NumeroFelizSortudo\obj\Debug\ProjetoFelizSortudo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Source\Repos\Edu-si\NumeroFelizSortudo\obj\Debug\ConsoleApp1.exe
+C:\Users\Eduardo\Source\Repos\Edu-si\NumeroFelizSortudo\obj\Debug\ConsoleApp1.pdb
